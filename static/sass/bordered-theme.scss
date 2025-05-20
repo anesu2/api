@@ -1,0 +1,25 @@
+[data-bs-theme=bodered-theme] body {  
+
+    background-color: #fff;
+
+    .topbar {
+        border-bottom: 1px solid #dee2e6;
+        box-shadow: none;
+    }
+
+    .sidebar-wrapper {
+        border-right: 1px solid #dee2e6;
+        box-shadow: none;
+    }
+
+    .card {
+        box-shadow: none;
+        border: 1px solid #dee2e6;
+    }
+
+    .page-footer {
+        border-top: 1px solid #dee2e6;
+        box-shadow: none;
+    }
+
+}
